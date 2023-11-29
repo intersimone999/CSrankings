@@ -337,7 +337,6 @@ class CSRankings {
 
     public static readonly nextTier: { [key: string]: boolean } =
         {
-            'ase': true,
             'issta': true,
             'icde': true,
             'pods': true,
